@@ -34,7 +34,7 @@ Support for other platforms may be added in future versions.
 
 1. Install Java [Download](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html)
 
-2. Go to the Releases section.
+2. Go to the [Releases](https://github.com/CodershaWon21/Optimized-game-launcher/releases/tag/Download-optimized)
 
 3. Download the latest available version.
 
@@ -136,7 +136,7 @@ This project is distributed under the [LICENSE](https://github.com/CodershaWon21
 
 1. Установить Java [Download](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html)
 
-2. Перейдите в раздел Releases.
+2. Перейдите в раздел [Releases](https://github.com/CodershaWon21/Optimized-game-launcher/releases/tag/Download-optimized). 
 
 3. Скачайте последнюю доступную версию.
 
