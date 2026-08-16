@@ -91,8 +91,10 @@ The developer does not provide or distribute third-party game files unless speci
 ## 📄 License
 
 This project is distributed under the [LICENSE](https://github.com/CodershaWon21/Optimized-game-launcher/blob/main/LICENSE).
-See the LICENSE file for details.
 
+![LICENSE](https://img.shields.io/badge/License-MIT-green)
+
+---
 
 ⭐ If you found this project useful, please give the repository a star!
 
@@ -194,7 +196,9 @@ See the LICENSE file for details.
 ## 📄 License
 
 Этот проект распространяется под лицензией [LICENSE](https://github.com/CodershaWon21/Optimized-game-launcher/blob/main/LICENSE).
-Подробнее см. файл LICENSE.
 
+![LICENSE](https://img.shields.io/badge/License-MIT-green)
+
+---
  
 ⭐ Если проект оказался полезным, можете поставить репозиторию звезду!
